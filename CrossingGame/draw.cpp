@@ -6,12 +6,12 @@
 using namespace std;
 
 
-void draw::drawDinosa() {
+/*void draw::drawDinosa() {
 	x = 31; y = 35;
 	GotoXY(x, y); cout << "//"; x = x - 3; y = y - 1; GotoXY(x, y); cout << "`-._. )/`"; x = x - 1; y -= 1; GotoXY(x, y); cout << ".___.--'" << " /`_'";
 	x -= -8; y -= 1; GotoXY(x, y); cout << "/(" << char(92) << "_/)"; x -= -2; y -= 1; GotoXY(x, y);
 	cout << "@ @";
-}
+}*/
 
 void draw::drawCar() {
 	x = 20;
