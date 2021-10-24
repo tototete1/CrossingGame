@@ -6,6 +6,7 @@
 #include <dos.h>
 #include <stdlib.h>
 #include <thread>
+#include<string>
 
 using namespace std;
 CAR car[3];
